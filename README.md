@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=221bprogrammer" alt="221bprogrammer" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning and Gen AI Projects**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning, Deep Learning and Gen AI**
 
 - 📫 How to reach me **sinchanroy32@gmail.com**
 
